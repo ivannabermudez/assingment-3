@@ -1,0 +1,12 @@
+/*global*/
+*{
+    font-family: 'Playfair Display', serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    }
+
+.image {
+    width: 375px;
+height: 515px;  
+}
